@@ -1,3 +1,4 @@
+// ignore_for_file: avoid_print
 /// ini adalah komentar satu baris
 void main(){
   var name = 'Mira';

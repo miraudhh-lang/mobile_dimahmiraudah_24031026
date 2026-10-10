@@ -1,3 +1,4 @@
+// ignore_for_file: avoid_print
 void main(){
   late var value = getValue();
   print('display value');

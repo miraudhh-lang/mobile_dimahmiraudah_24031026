@@ -1,3 +1,4 @@
+// ignore_for_file: avoid_print
 void main(){
   final array1 = [1, 2, 3, 4, 5];
   const array2 = [1, 2, 3, 4, 5];

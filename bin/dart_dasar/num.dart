@@ -1,3 +1,4 @@
+// ignore_for_file: avoid_print
 void main(){
   num number = 10;
   print(number);
